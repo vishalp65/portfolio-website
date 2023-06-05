@@ -499,7 +499,7 @@ span {
     position: relative;
     /* display: flex; */
     /* display: inline; */
-    width: 49%;
+    width: 100%;
     margin: .8rem 0;
 }
 
